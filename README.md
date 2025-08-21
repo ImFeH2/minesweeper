@@ -1,3 +1,1 @@
-# Static Patch to Optimize Minesweeper's Mine Placement Algorithm
-
-[Blog](https://www.feh2.im/en/posts/minesweeper)
+[Optimize Minesweeper's mine placement algorithm by static patch](https://www.feh2.im/en/posts/minesweeper)
